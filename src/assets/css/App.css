@@ -1,0 +1,25 @@
+.main {
+    color: #fff;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+}
+.item {
+    width: 200px;
+    height: 150px;
+    text-transform: uppercase;
+    transition: 0.4s;
+   
+   
+
+}
+
+.item:hover {
+    transform: scale(0.9);
+}
+
+.nav {
+    cursor: pointer;
+}
