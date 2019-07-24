@@ -4,7 +4,7 @@ export default class Savings extends Component {
   render() {
     return (
       <div>
-        Savings
+      
       </div>
     )
   }
